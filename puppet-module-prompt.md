@@ -1,4 +1,4 @@
-Create a new Puppet module named `<MODULE_NAME>` following the Puppet Beginner's Guide to Writing Modules pattern (install/config/service). Use the Vox Pupuli toolchain (voxpupuli-test, voxbox).
+Create a new Puppet module named `<MODULE_NAME>` following the [Puppet Beginner's Guide to Writing Modules](https://help.puppet.com/core/8/Content/PuppetCore/bgtm.htm) pattern (install/config/service). Use the Vox Pupuli toolchain (voxpupuli-test, voxbox).
 
 **Module structure:**
 
